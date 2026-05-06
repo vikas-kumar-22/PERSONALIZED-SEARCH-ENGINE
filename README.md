@@ -1,4 +1,4 @@
-# 🔍 Adaptive Search Engine
+# 🔍 PERSONALIZED SEARCH ENGINE
 
 > A personalized information retrieval system that learns from your behavior and delivers explainable, adaptive search results over the **MS MARCO** passage corpus.
 
